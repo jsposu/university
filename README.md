@@ -1,2 +1,2 @@
 # university
-code i learn at uni
+code i learn in uni
