@@ -1,10 +1,8 @@
-# Proyecto de Universidad
-
-![Logo de la Universidad Tecnológica de Panamá](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_UTP.png/600px-Logo_UTP.png)
+# Desarrollo Lógico y Algoritmos
 
 ## Descripción
 
-Este repositorio contiene el proyecto final para el curso de [Nombre del Curso] en la Universidad Tecnológica de Panamá. El proyecto se centra en el aprendizaje de conceptos básicos de programación.
+Este repositorio contiene todas las practicas para el curso de Desarrollo Lógico y Algoritmos en la Universidad Tecnológica de Panamá. La materia se centra en el aprendizaje de conceptos básicos de programación.
 
 ## 1 Semestre
 
