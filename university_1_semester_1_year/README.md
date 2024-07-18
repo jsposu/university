@@ -10,7 +10,8 @@ Este repositorio contiene el proyecto final para el curso de [Nombre del Curso] 
 
 En el semestre, el principal tema fue **pseudocódigo**, un lenguaje de programación en español, sencillo de aprender. Sin embargo, debido a sus limitaciones,
 decidí aprender más sobre **C++**, ya que era el lenguaje que el profesor utilizó en sus clases para correr los programas y también le puedo dar un uso real.
-Por mi cuenta aprendi los siguientes temas:
+
+No solo aprendí en clases, también practiqué por mi cuenta con la ayuda de páginas web, donde estudié los siguientes temas antes de clase:
 
 - **Funciones**
 - **Clases**
@@ -23,5 +24,5 @@ Este curso me introdujo al mundo de la programación y aumentó mi interés en e
 
 Sigue estos pasos para instalar el repo:
 ```
-[git clone https://github.com/usuario/repo.git](https://github.com/jsposu/university.git)
+git clone https://github.com/jsposu/university.git
 ```
