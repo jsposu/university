@@ -23,5 +23,5 @@ Este curso me introdujo al mundo de la programación y aumentó mi interés en e
 
 Sigue estos pasos para instalar el repo:
 ```
-git clone https://github.com/usuario/repo.git
+[git clone https://github.com/usuario/repo.git](https://github.com/jsposu/university.git)
 ```
